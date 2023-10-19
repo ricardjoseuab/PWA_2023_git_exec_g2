@@ -1,1 +1,13 @@
- 
+div.base {
+    width: 960px;
+    margin: auto;
+}
+
+.bloco1 {
+    width: 200px;
+    float: left;
+}
+
+.bloco2 {
+    margin-left: 200px;
+}
