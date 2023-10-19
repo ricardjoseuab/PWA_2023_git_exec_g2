@@ -11,3 +11,8 @@ Definição das tarefas
 (g2) Alínea 4: João Santos | 2302585@estudante.uab.pt
 
 (g2) Alínea 5: Mariana Silva | mariana.siqueira.u@gmail.com
+
+
+Olá grupo... Gostaria de aproveitar o readme do projeto para vos convidar\
+para o discord dos alunos deste curso, para que nos possamos ajudar uns aos outros.\
+https://discord.gg/Q3xj2RGgjy\
